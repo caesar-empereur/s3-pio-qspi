@@ -1,6 +1,6 @@
 #include "font-config.h"
 
-#define COMPS_SP_SHOW 1
+#define COMPS_SP_SHOW 0
 
 #define COMPS_SP_W 400
 #define COMPS_SP_H 480

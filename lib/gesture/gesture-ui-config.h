@@ -9,8 +9,8 @@
 
 //是否开启航向圆盘
 #define YAW_SP_COMPASS_SHOW 0
-#define LEFT_FLOAT_SP_SHOW 0
-#define RIGHT_FLOAT_SP_SHOW 0
+#define LEFT_FLOAT_SP_SHOW 1
+#define RIGHT_FLOAT_SP_SHOW 1
 
 //整体颜色的 定义
 /*
